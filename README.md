@@ -34,7 +34,7 @@ An end-to-end computer vision and IoT project that streams live video from an ES
 
 ## 🔌 Demo Video 
 
-<video src=["https://github.com/user-attachments/assets/YOUR_GENERATED_URL.mp4" controls width="100%"](https://drive.google.com/file/d/1WS0lx16DcyPOYbd2wdtH6GIZigwTiUDK/view?usp=drive_link)></video>
+<video src=["Link"](https://drive.google.com/file/d/1WS0lx16DcyPOYbd2wdtH6GIZigwTiUDK/view?usp=drive_link)></video>
 
 
 
