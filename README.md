@@ -21,6 +21,24 @@ An end-to-end computer vision and IoT project that streams live video from an ES
 
 ---
 
+## 🔌 Circuit Diagram & Pin Configuration
+
+![ESP32-CAM Circuit Diagram](assets/circuit_diagram.png)
+
+| Signal | ESP32-CAM Pin | Connected To | Description / Purpose |
+| :--- | :--- | :--- | :--- |
+| **UART TX / RX** | U0T / U0R | FTDI RX / TX | Serial communication for flashing firmware and debugging |
+| **Flash Mode** | IO0 | GND (during flashing) | Pulled LOW for bootloader mode; open for normal run mode |
+| **Power Supply** | 5V, GND | Regulated 5V supply | External 5V 2A power rail |
+
+
+## 🔌 Demo Video 
+
+<video src=["https://github.com/user-attachments/assets/YOUR_GENERATED_URL.mp4" controls width="100%"](https://drive.google.com/file/d/1WS0lx16DcyPOYbd2wdtH6GIZigwTiUDK/view?usp=drive_link)></video>
+
+
+
+
 ## 📁 Repository Directory Structure
 
 ```text
